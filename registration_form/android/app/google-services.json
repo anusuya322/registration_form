@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "926509284183",
+    "project_id": "registration-form-af265",
+    "storage_bucket": "registration-form-af265.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926509284183:android:4bfd6ddceba9748d0bdc12",
+        "android_client_info": {
+          "package_name": "com.example.registration_form"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtJQ3EJ2QEX8GDw_VxRhagT5O773o2b3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
